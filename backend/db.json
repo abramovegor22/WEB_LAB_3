@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "abramovegor22@gmail.com",
+      "password": "2001",
+      "birth": "03/10/2001",
+      "sex": "female"
+    },
+    {
+      "email": "lokator1@mail.ru",
+      "password": "2001",
+      "birth": "10/09/2001",
+      "sex": "male"
+    },
+    {
+      "email": "loblob@hotmail.com",
+      "password": "2001",
+      "birth": "12/10/2000",
+      "sex": "male"
+    },
+    {
+      "email": "konfuz@index.com",
+      "password": "2001",
+      "birth": "15/11/2001",
+      "sex": "male"
+    },
+    {
+      "email": "kristiano@gmail.com",
+      "password": "2001",
+      "birth": "02/07/1998",
+      "sex": "male"
+    },
+    {
+      "email": "aors@mail.ru",
+      "password": "2001",
+      "birth": "31/01/1997",
+      "sex": "female"
+    },
+    {
+      "email": "krabik@gmail.com",
+      "password": "2001",
+      "birth": "17/10/2001",
+      "sex": "female"
+    },
+    {
+      "email": "lobovanton@gmail.com",
+      "password": "2001",
+      "birth": "15/11/2001",
+      "sex": "male"
+    },
+    {
+      "email": "test@test.com",
+      "password": "2001",
+      "birth": "10/10/2001",
+      "sex": "female"
+    }
+  ]
+}
